@@ -17,10 +17,12 @@
 
 ## Current Projects
 
-🛒 **[SimplePOS](https://github.com/MachinMartin/SimplePOS)** -
+🛒 **[SimplePOS](https://github.com/MachinMartin/SimplePOS)** - 
+
 A web-based *Point of Sale* built with simplicity in mind. SimplePOS helps small and medium-sized markets digitalize their product catalog, perform fast sales through an intuitive interface, and manage their business without unnecessary complexity.
 
 🪐 **[Orbit](https://orbit.com.uy)** -
+
 A creative and technical studio focused on designing and building digital solutions where business goals meet real user needs.
 
 
