@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Machin
+## 👋 Hi, I'm Machin
 Software Developer | 📍 Montevideo, Uruguay
 
 ### 🛠️ Tech stack
@@ -17,7 +17,7 @@ Software Developer | 📍 Montevideo, Uruguay
 
 I’m passionate about solving problems, and the way that fits me best is by building software with a strong focus on business needs. I’m very detail-oriented (sometimes a bit too much), both in my personal and professional life. I really enjoy learning and, above all, having fun along the way.
 
-## ⚙️ Current Projects
+### ⚙️ Current Projects
 
 🛒 **[SimplePOS](https://github.com/MachinMartin/SimplePOS)** - 
 A web-based *Point of Sale* built with simplicity in mind. SimplePOS helps small and medium-sized markets digitalize their product catalog, perform fast sales through an intuitive interface, and manage their business without unnecessary complexity.
