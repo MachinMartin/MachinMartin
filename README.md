@@ -1,5 +1,5 @@
 ## Hi, this is Martin's Github
-**Software Developer** | 📍 **Montevideo, Uruguay**
+**A Software Developer located on Montevideo, Uruguay**
 
 ### Tech stack
 
