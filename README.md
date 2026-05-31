@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Machin
+## Hi, I'm Machin
 **Software Developer** | 📍 **Montevideo, Uruguay**
 
-### 🛠️ Tech stack
+### Tech stack
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%20Sharp-7355dd?style=flat-square&logo=&logoColor=white)
