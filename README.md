@@ -1,5 +1,5 @@
 ## Hi, this is Martin
-**A Software Developer based on Montevideo, Uruguay** 🇺🇾
+**A Software Developer based on Montevideo, Uruguay**
 
 ### Tech stack
 
