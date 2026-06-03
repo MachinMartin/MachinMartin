@@ -16,6 +16,10 @@
 
 ## Current Projects
 
+🤖 **[TestSaver](https://github.com/MachinMartin/TestSaver)** 
+
+RESTful API for managing automated test results, with filtering and AI-powered analysis to identify recurring failures and testing patterns.
+
 🛒 **[SimplePOS](https://github.com/MachinMartin/SimplePOS)** - In Progress
 
 A web-based *Point of Sale* built with simplicity in mind. SimplePOS helps small and medium-sized markets digitize their product catalog, perform fast sales through an intuitive interface, and manage their business without unnecessary complexity.
