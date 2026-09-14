@@ -1,5 +1,5 @@
-## Hi, this is Martin
-**A Software Developer based on Montevideo, Uruguay**
+## Hi, this is Martin and Paco
+**A Software Developer based on Montevideo, Uruguay with his royal Dog**
 
 ### Tech stack
 
