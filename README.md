@@ -24,7 +24,7 @@ RESTful API for managing automated test results, with filtering and AI-powered a
 
 A web-based *Point of Sale* built with simplicity in mind. SimplePOS helps small and medium-sized markets digitize their product catalog, perform fast sales through an intuitive interface, and manage their business without unnecessary complexity.
 
-🪐 **[Orbit](https://orbit.com.uy)** -
+🪐 **[Orbit](https://orbit.com.uy)** 
 
 A creative and technical studio focused on designing and building digital solutions where business goals meet real user needs.
 
