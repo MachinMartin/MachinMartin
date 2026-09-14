@@ -29,8 +29,6 @@ A web-based *Point of Sale* built with simplicity in mind. SimplePOS helps small
 A creative and technical studio focused on designing and building digital solutions where business goals meet real user needs.
 
 
-## About me
-
-I’m passionate about solving problems, and the way that fits me best is by building software with a strong focus on business needs. I’m very detail-oriented (sometimes a bit too much), both in my personal and professional life. I really enjoy learning and, above all, having fun along the way.
+## Linkedin
 
 [Linkedin](https://linkedin.com/in/machinmartin)
