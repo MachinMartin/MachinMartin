@@ -28,7 +28,4 @@ A web-based *Point of Sale* built with simplicity in mind. SimplePOS helps small
 
 A creative and technical studio focused on designing and building digital solutions where business goals meet real user needs.
 
-
-## Linkedin
-
-[Linkedin](https://linkedin.com/in/machinmartin)
+## [Linkedin](https://linkedin.com/in/machinmartin)
